@@ -7,12 +7,11 @@ This is the completed result from this tutorial  [Next JS Tutorial](https://next
 - [Overview](#overview)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
 
 ## Overview
 
-![](nextjs-blog.desktop.png)
+![](nextjs-blog-desktop.png)
 
 ### Built with
 

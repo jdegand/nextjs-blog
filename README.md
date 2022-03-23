@@ -56,3 +56,4 @@ This is the completed result from this tutorial  [Next JS Tutorial](https://next
 - [Medium](https://medium.com/@anotherplanet/git-tips-next-js-github-pages-2dbc9a819cb8) - deploy next to github pages
 - [Blog](https://luxiyalu.com/how-to-disable-nextjs-warning/) - disable nextjs warnings
 - [Stack Overflow](https://stackoverflow.com/questions/56871384/what-is-the-difference-between-ts-and-tsx-extensions-both-are-used-as-extensi) - ts vs tsx
+- [YouTube](https://www.youtube.com/watch?v=qLdjuSIBx8Y) - Porting React App to Next Experience

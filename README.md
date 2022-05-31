@@ -27,7 +27,7 @@ This is the completed result from this tutorial  [Next JS Tutorial](https://next
 - You cannot import global CSS anywhere else.
 
 - Next.js has support for Image Optimization by default
-- <Head> is a React Component that allows you to modify the head of a page.
+- Head is a React Component that allows you to modify the head of a page.
 - If you want to customize the <html> tag, for example to add the lang attribute, you can do so by creating a pages/_document.js file.
 - next/script simplifies loading third-party scripts
 - Next.js has built-in support for styled-jsx
